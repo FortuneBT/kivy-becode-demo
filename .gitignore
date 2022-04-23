@@ -1,0 +1,8 @@
+.buildozer/
+bin/
+buildozer.spec
+env-kivy/
+main2.py
+test.ipynb
+test.py
+.pylintrc
